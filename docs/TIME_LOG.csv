@@ -1,0 +1,5 @@
+date,task,minutes,reason_or_notes
+2026-10-12,Environment setup and API configuration,45,"Estimated retrospectively; setup of the Python environment, dependencies, and API configuration. Exact time was not tracked."
+2026-10-12,Prototype implementation and troubleshooting,120,"Estimated retrospectively; building and refining the Streamlit sales-agent workflow and resolving setup or run issues. Exact time was not tracked."
+2026-10-12,Account research runs and output review,45,"Estimated retrospectively; two account-brief runs, correcting competitor inputs, and reviewing the generated sources and claims. Exact time was not tracked."
+2026-10-12,Testing and capstone documentation,60,"Estimated retrospectively; running the 10 automated tests, capturing evidence, and completing the report and experiment log. Exact time was not tracked."

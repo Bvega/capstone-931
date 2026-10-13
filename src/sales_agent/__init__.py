@@ -1,0 +1,2 @@
+"""Sales account research prototype."""
+
